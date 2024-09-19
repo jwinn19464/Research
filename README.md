@@ -38,4 +38,6 @@ git remote -v
 ```
 
 #### To change the ssh remote url
-`git remote set-url origin git@github.com:username/repo.git`
+```bash
+git remote set-url origin git@github.com:username/repo.git
+```
