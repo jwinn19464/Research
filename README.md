@@ -13,7 +13,7 @@ Junction Trees were created for the majority of all three datasets.
 - Run `gSpan` on all raw datasets and junction tree datasets.
 - Create dictionaries from `gSpan` outputs.
 
-## Setting Up Git Access on Delab Server
+## Setting Up Git Access
 
 1. Create an SSH key:
     ```bash
