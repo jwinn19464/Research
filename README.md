@@ -32,8 +32,8 @@ Junction Trees were created for the majority of all three datasets.
 You should see this message:
 Hi username! You've successfully authenticated, but GitHub does not provide shell access.
 
-####To check the remote url
+#### To check the remote url
 git remote -v
 
-####To change the ssh remote url
+#### To change the ssh remote url
 git remote set-url origin git@github.com:username/repo.git
