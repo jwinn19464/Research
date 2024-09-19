@@ -33,7 +33,9 @@ You should see this message:
 Hi username! You've successfully authenticated, but GitHub does not provide shell access.
 
 #### To check the remote url
+```bash
 git remote -v
+```
 
 #### To change the ssh remote url
-git remote set-url origin git@github.com:username/repo.git
+`git remote set-url origin git@github.com:username/repo.git`
