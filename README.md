@@ -12,6 +12,9 @@ Junction Trees were created for the majority of all three datasets.
 - Insert lines of code that will create and update a spreadsheet with the desired values.
 - Run `gSpan` on all raw datasets and junction tree datasets.
 - Create dictionaries from `gSpan` outputs.
+- Read at least 1 paper a day to get inspiration for next direction and solutions
+    - Put notes into spreadsheet
+- Document, document, document 
 
 ## Setting Up Git Access
 
