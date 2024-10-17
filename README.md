@@ -15,8 +15,8 @@ Junction Trees were created for the majority of all three datasets.
 - Document, document, document
 
 ### To Do
--Fix KekulizeExceptions
--Add more accuracy measures learned in data science class
+- Fix KekulizeExceptions
+- Add more accuracy measures learned in data science class
 
 ## Setting Up Git Access
 
