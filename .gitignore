@@ -8,4 +8,6 @@ without_edge_features/
 .ipynb_checkpoints/
 __pycache__/
 gspan_outputs/.ipynb_checkpoints/
-gspan_outputs/jt_test_output_100.txt
+hypergraph_raw_700.pkl
+result_jt_100.pkl
+result_raw_700.pkl
