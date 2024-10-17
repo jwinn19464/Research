@@ -332,6 +332,10 @@ class gSpan(object):
         display_str = g.display()
         print('\nSupport: {}'.format(self._support))
 
+        # List the graph IDs where this subgraph appears
+        graph_ids = list(set([p.gid for p in projected]))
+        print('Subgraph appears in graph IDs: {}'.format(graph_ids))
+        
         # Add some report info to pandas dataframe "self._report_df".
         new_report_df = pd.DataFrame(
                 {
