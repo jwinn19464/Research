@@ -5,3 +5,7 @@ datasets/
 without_edge_features/
 *.pt
 *.log
+.ipynb_checkpoints/
+__pycache__/
+gspan_outputs/.ipynb_checkpoints/
+gspan_outputs/jt_test_output_100.txt
